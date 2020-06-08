@@ -1,0 +1,24 @@
+---
+- hosts: all
+  become: true
+  tasks:
+  - name: login to aws
+    command: $(aws ecr get-login --no-include-email --region ap-south-1)
+
+  - name: remove the image
+    command: docker rmi 583044482327.dkr.ecr.ap-south-1.amazonaws.com/nodejs:latest
+
+
+  - name: docker pull
+    command: docker pull 583044482327.dkr.ecr.ap-south-1.amazonaws.com/nodejs:latest
+
+  - name: build the images
+    command: docker build -t nodejs .
+    args:
+      chdir: /opt/docker/docker-nodejs
+
+  - name: tag the images
+    command: docker tag nodejs:latest 583044482327.dkr.ecr.ap-south-1.amazonaws.com/nodejs:latest
+
+  - name: push the image
+    command: docker push 583044482327.dkr.ecr.ap-south-1.amazonaws.com/nodejs:latest

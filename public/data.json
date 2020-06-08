@@ -1,0 +1,155 @@
+{
+    "content": {
+    "title": "Success Stories-banking",
+    "body": "Lorem Ipsum",
+    "field_component_type": [
+    {
+    "field_banner": [
+    {
+    "field_banner_image": {
+    "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_5.jpg",
+    "title": "",
+    "alt": "Banner-success-stories",
+    "height": "476",
+    "width": "1920"
+    },
+    "field_banner_link": [],
+    "field_body": "Lorem Ipsum",
+    "field_cta_link": [],
+    "field_description": "Lorem Ipsum",
+    "field_mobile_banner": {
+    "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_6.jpg",
+    "title": "",
+    "alt": "Banner-success-stories",
+    "height": "476",
+    "width": "1920"
+    },
+    "field_subtitle": "THAT MADE CUSTOMERS SMILE",
+    "field_title": "SUCCESS STORIES"
+    }
+    ],
+    "field_body": "Lorem Ipsum",
+    "field_component_title": null,
+    "field_description": "Lorem Ipsum"
+    },
+    {
+    "field_success_product_banner": [
+    {
+    "field_description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "field_image": {
+    "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/garnier%20%281%29_1.jpg",
+    "title": "",
+    "alt": "garnier",
+    "height": "541",
+    "width": "855"
+    },
+    "field_link_detail": [
+    {
+    "field_link": {
+    "uri": "#"
+    },
+    "field_link_type": "link"
+    }
+    ],
+    "field_logo_image": {
+    "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/Garnier-logo_8.png",
+    "title": "",
+    "alt": "Garnier-logo",
+    "height": "130",
+    "width": "353"
+    },
+    "field_title": "CITIBANK"
+    }
+    ]
+    },
+    {
+    "field_success_detail_two_column": [
+    {
+    "field_component_title": null,
+    "field_component_type": null,
+    "field_left_part": [
+    {
+    "field_component_id": null,
+    "field_component_type": null,
+    "field_description": "Customers’ attention spans are dwindling. Traditional media channels are unable to hold their interest any more. So, the key to engaging with our customers was to find out where they were spending their time. We undertook a data-driven approach and studied their content consumption behaviour. The result was emphatic – more Citi customers were on social media than ever before. A 5X jump in video consumption, with 8.5 hours of content consumed every month, led us to adopt a ‘Video First’ approach to reach out to them. Read on to find out how we leveraged it. ",
+    "field_title": "The Human Lens"
+    },
+    {
+    "field_component_id": null,
+    "field_component_type": null,
+    "field_description": "In order to maximise reach, we targeted customers across multiple touchpoints, all through intelligently crafted and platform-friendly videos. Our content was tailored to drive spends, explain processes in the simplest possible way, scale up acquisition and reinforce Citi’s value proposition. With 2 videos every week, we ensured continuous customer engagement.",
+    "field_title": "How We Shaped Behaviour:"
+    }
+    ],
+    "field_right_part": [
+    {
+    "field_component_id": null,
+    "field_component_type": null,
+    "field_description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "field_title": "The Success Story"
+    },
+    {
+    "field_component_id": null,
+    "field_component_type": null,
+    "field_description": "in engagement",
+    "field_title": "30%+ increase "
+    },
+    {
+    "field_component_id": null,
+    "field_component_type": null,
+    "field_description": "card spends",
+    "field_title": "7% higher "
+    },
+    {
+    "field_component_id": null,
+    "field_component_type": null,
+    "field_description": "preference (63% cards, 70% banking)",
+    "field_title": "3% increase in brand "
+    },
+    {
+    "field_component_id": null,
+    "field_component_type": null,
+    "field_description": "open rate with 13 million+ video views",
+    "field_title": "3X reach vs EDM "
+    }
+    ]
+    }
+    ]
+    },
+    {
+    "field_success_get_in_touch": [
+    {
+    "field_component_title": null,
+    "field_description": "Call us on +91-22-43110303 or click on the button below to discuss how we can move forward.\r\n\r\n\r\n",
+    "field_links_component": [
+    {
+    "field_link": {
+    "uri": "entity:node/124",
+    "title": "GET IN TOUCH"
+    },
+    "field_link_type": "cta"
+    }
+    ],
+    "field_subtitle": "Lorem Ipsum",
+    "field_title": "Got a project? Let’s chat.."
+    }
+    ]
+    }
+    ],
+    "field_terms": {
+    "content": {
+    "name": "Banking",
+    "description": null,
+    "field_key": "Banking",
+    "field_url": "/banking"
+    },
+    "id": "2",
+    "type": "success_stories",
+    "changed": "Thu, 05/07/2020 - 15:33"
+    },
+    "field_unique_url": "/banking"
+    },
+    "id": "122",
+    "type": "success_stories",
+    "changed": "Sat, 05/09/2020 - 14:19"
+}

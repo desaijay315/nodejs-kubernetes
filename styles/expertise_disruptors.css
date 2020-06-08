@@ -1,0 +1,64 @@
+.disruptors_slider {
+    display: flex;
+    overflow: hidden;
+}
+.disruptors_slider .slide-item {
+    top: 30px;
+    width: 368px;
+    margin-right: 15px;
+    overflow: hidden;
+    transition: 0.5s ease;
+    padding: 0 !important;
+}
+body .disruptors_slider .slide-item img{
+    width: 350px;
+}
+body .disruptors_slider .slide-item.hold figure{
+    transition: 0s none !important;
+}
+body .disruptors_slider .slide-item figure{
+    width: 100%;
+    transform: translateX(-33.33333333333%);
+    transition: 0.5s ease;
+}
+body .disruptors_slider .slide-item.next figure{
+    transform: translateX(0);
+}
+body .disruptors_slider .slide-item.prev figure{
+    transform: translateX(-66.66666666666%);
+}
+.disruptors_slider .slide-item.bigFrame{
+    width: 480px;
+    left: -20px;
+    z-index: -1;
+    position: relative;
+    top: 0px;
+    overflow-x: visible !important;
+}
+.disruptors_slider .slide-item.bigFrame figure{
+    width: 100%;
+    height: auto;
+    max-height: 520px;
+}
+body .disruptors_slider .slide-item.bigFrame img{
+    width: 460px;
+}
+
+.disruptors_text_slider.slick-slider .slick-track, .disruptors_text_slider.slick-slider .slick-list {
+    direction: rtl;
+}
+
+@media (max-width: 992px){
+ .disruptors_slider .slide-item {
+   width: 100px;
+ }
+ body .disruptors_slider .slide-item img{
+   width: 90px;
+ }
+ .disruptors_slider .slide-item.bigFrame{
+   width: 160px;
+ }
+ body .disruptors_slider .slide-item.bigFrame img{
+   width: 140px;
+ }
+}

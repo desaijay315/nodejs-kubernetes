@@ -1,0 +1,1002 @@
+{
+    "content": {
+      "title": "HomeNew",
+      "body": "\u003Cp\u003Esdfsdf\u003C\/p\u003E\r\n",
+      "field_component_type": [
+        {
+          "field_banner_component": [
+            {
+              "field_banner_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_44.jpg",
+                "title": "",
+                "alt": "sdfdsf",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_banner_link": [
+                
+              ],
+              "field_body": "\u003Cp\u003Edfsfds\u003C\/p\u003E\r\n",
+              "field_cta_link": [
+                
+              ],
+              "field_description": "\u003Cp\u003Esfdfdsfdsf\u003C\/p\u003E\r\n",
+              "field_mobile_banner": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_45.jpg",
+                "title": "",
+                "alt": "fddsf",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_subtitle": "dsfds",
+              "field_title": "dfsdf"
+            }
+          ]
+        },
+        {
+          "field_driving_component": [
+            {
+              "field_description": "\u003Cp\u003Efdfdf\u003C\/p\u003E\r\n",
+              "field_links_component": [
+                {
+                  "field_link": {
+                    "uri": "#",
+                    "title": "fdgfg"
+                  },
+                  "field_link_type": "cta"
+                }
+              ],
+              "field_subtitle": "fef",
+              "field_title": "fferfr"
+            }
+          ]
+        },
+        {
+          "field_expertise_component": [
+            {
+              "field_description": "\u003Cp\u003Ejhhfh\u003C\/p\u003E\r\n",
+              "field_links_component": [
+                {
+                  "field_link": {
+                    "uri": "#",
+                    "title": "jbjbj"
+                  },
+                  "field_link_type": "cta"
+                }
+              ],
+              "field_subtitle": "hjhjh",
+              "field_title": "hjgjh"
+            },
+            {
+              "field_description": "\u003Cp\u003Eyguyug\u003C\/p\u003E\r\n",
+              "field_links_component": [
+                {
+                  "field_link": {
+                    "uri": "#",
+                    "title": "jbmbn"
+                  },
+                  "field_link_type": "cta"
+                }
+              ],
+              "field_subtitle": "hvhj",
+              "field_title": "tfhgfh"
+            }
+          ],
+          "field_title": "ghhfhg"
+        },
+        {
+          "field_stories_content_reference": [
+            {
+              "field_component_title": "fgdgfd",
+              "0": {
+                "content": {
+                  "title": "Success Stories-fmcg",
+                  "body": "\u003Cp\u003Eadsdasas\u003C\/p\u003E\r\n",
+                  "field_component_type": [
+                    {
+                      "field_banner_component": [
+                        {
+                          "field_banner_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_50.jpg",
+                            "title": "",
+                            "alt": "fsdd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_banner_link": {
+                            "uri": "#",
+                            "title": "dsfd"
+                          },
+                          "field_body": "\u003Cp\u003Efdsfds\u003C\/p\u003E\r\n",
+                          "field_cta_link": {
+                            "uri": "#",
+                            "title": "sfdfdf"
+                          },
+                          "field_description": "\u003Cp\u003Edfssdf\u003C\/p\u003E\r\n",
+                          "field_mobile_banner": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_51.jpg",
+                            "title": "",
+                            "alt": "dsfds",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_subtitle": "dsfds",
+                          "field_title": "sfsf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_product_banner": [
+                        {
+                          "field_description": "\u003Cp\u003Ecccx\u003C\/p\u003E\r\n",
+                          "field_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_90.jpg",
+                            "title": "",
+                            "alt": "sddsvd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_link_detail": [
+                            {
+                              "field_link": {
+                                "uri": "#",
+                                "title": "dsffsd"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_logo_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_91.jpg",
+                            "title": "",
+                            "alt": "ccxxzc",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_title": "cxcxc"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_opportunity": [
+                        {
+                          "field_image_component": [
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_54.jpg",
+                                "title": "",
+                                "alt": "czxcxcz",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "fdsf"
+                              }
+                            },
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_75.jpg",
+                                "title": "",
+                                "alt": "dvdssdv",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "gfdgfgf"
+                              }
+                            },
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_76.jpg",
+                                "title": "",
+                                "alt": "xczxczx",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "drfgfdg"
+                              }
+                            }
+                          ],
+                          "field_subtitle": "dfdsfsd",
+                          "field_title": "gdf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_detail_awards": [
+                        {
+                          "field_description": "\u003Cp\u003Edgfg\u003C\/p\u003E\r\n",
+                          "field_links_component": [
+                            {
+                              "field_link": {
+                                "uri": "#"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_subtitle": "fdgf",
+                          "field_title": "fgdgdf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_client_reviews_component": [
+                        {
+                          "field_description": "\u003Cp\u003Esdfds\u003C\/p\u003E\r\n",
+                          "field_designation": "sfsdfd",
+                          "field_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_72.jpg",
+                            "title": "",
+                            "alt": "sfdsd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_name": "sdfdf",
+                          "field_subtitle": "fsddf",
+                          "field_title": "vvsd"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_get_in_touch": [
+                        {
+                          "field_description": "\u003Cp\u003Edfgfg\u003C\/p\u003E\r\n",
+                          "field_links_component": [
+                            {
+                              "field_link": {
+                                "uri": "#"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_subtitle": "dfgfd",
+                          "field_title": "dgdgf"
+                        }
+                      ]
+                    }
+                  ],
+                  "field_key": "fmcg",
+                  "field_unique_url": "\/fmcg"
+                },
+                "id": "156",
+                "type": "success_stories",
+                "changed": "Wed, 05\/13\/2020 - 11:18"
+              },
+              "1": {
+                "content": {
+                  "title": "Success Stories-fmcg",
+                  "body": "\u003Cp\u003Eadsdasas\u003C\/p\u003E\r\n",
+                  "field_component_type": [
+                    {
+                      "field_banner_component": [
+                        {
+                          "field_banner_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_50.jpg",
+                            "title": "",
+                            "alt": "fsdd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_banner_link": {
+                            "uri": "#",
+                            "title": "dsfd"
+                          },
+                          "field_body": "\u003Cp\u003Efdsfds\u003C\/p\u003E\r\n",
+                          "field_cta_link": {
+                            "uri": "#",
+                            "title": "sfdfdf"
+                          },
+                          "field_description": "\u003Cp\u003Edfssdf\u003C\/p\u003E\r\n",
+                          "field_mobile_banner": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_51.jpg",
+                            "title": "",
+                            "alt": "dsfds",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_subtitle": "dsfds",
+                          "field_title": "sfsf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_product_banner": [
+                        {
+                          "field_description": "\u003Cp\u003Ecccx\u003C\/p\u003E\r\n",
+                          "field_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_90.jpg",
+                            "title": "",
+                            "alt": "sddsvd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_link_detail": [
+                            {
+                              "field_link": {
+                                "uri": "#",
+                                "title": "dsffsd"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_logo_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_91.jpg",
+                            "title": "",
+                            "alt": "ccxxzc",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_title": "cxcxc"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_opportunity": [
+                        {
+                          "field_image_component": [
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_54.jpg",
+                                "title": "",
+                                "alt": "czxcxcz",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "fdsf"
+                              }
+                            },
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_75.jpg",
+                                "title": "",
+                                "alt": "dvdssdv",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "gfdgfgf"
+                              }
+                            },
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_76.jpg",
+                                "title": "",
+                                "alt": "xczxczx",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "drfgfdg"
+                              }
+                            }
+                          ],
+                          "field_subtitle": "dfdsfsd",
+                          "field_title": "gdf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_detail_awards": [
+                        {
+                          "field_description": "\u003Cp\u003Edgfg\u003C\/p\u003E\r\n",
+                          "field_links_component": [
+                            {
+                              "field_link": {
+                                "uri": "#"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_subtitle": "fdgf",
+                          "field_title": "fgdgdf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_client_reviews_component": [
+                        {
+                          "field_description": "\u003Cp\u003Esdfds\u003C\/p\u003E\r\n",
+                          "field_designation": "sfsdfd",
+                          "field_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_72.jpg",
+                            "title": "",
+                            "alt": "sfdsd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_name": "sdfdf",
+                          "field_subtitle": "fsddf",
+                          "field_title": "vvsd"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_get_in_touch": [
+                        {
+                          "field_description": "\u003Cp\u003Edfgfg\u003C\/p\u003E\r\n",
+                          "field_links_component": [
+                            {
+                              "field_link": {
+                                "uri": "#"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_subtitle": "dfgfd",
+                          "field_title": "dgdgf"
+                        }
+                      ]
+                    }
+                  ],
+                  "field_key": "fmcg",
+                  "field_unique_url": "\/fmcg"
+                },
+                "id": "156",
+                "type": "success_stories",
+                "changed": "Wed, 05\/13\/2020 - 11:18"
+              },
+              "2": {
+                "content": {
+                  "title": "Success Stories-fmcg",
+                  "body": "\u003Cp\u003Eadsdasas\u003C\/p\u003E\r\n",
+                  "field_component_type": [
+                    {
+                      "field_banner_component": [
+                        {
+                          "field_banner_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_50.jpg",
+                            "title": "",
+                            "alt": "fsdd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_banner_link": {
+                            "uri": "#",
+                            "title": "dsfd"
+                          },
+                          "field_body": "\u003Cp\u003Efdsfds\u003C\/p\u003E\r\n",
+                          "field_cta_link": {
+                            "uri": "#",
+                            "title": "sfdfdf"
+                          },
+                          "field_description": "\u003Cp\u003Edfssdf\u003C\/p\u003E\r\n",
+                          "field_mobile_banner": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_51.jpg",
+                            "title": "",
+                            "alt": "dsfds",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_subtitle": "dsfds",
+                          "field_title": "sfsf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_product_banner": [
+                        {
+                          "field_description": "\u003Cp\u003Ecccx\u003C\/p\u003E\r\n",
+                          "field_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_90.jpg",
+                            "title": "",
+                            "alt": "sddsvd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_link_detail": [
+                            {
+                              "field_link": {
+                                "uri": "#",
+                                "title": "dsffsd"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_logo_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_91.jpg",
+                            "title": "",
+                            "alt": "ccxxzc",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_title": "cxcxc"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_opportunity": [
+                        {
+                          "field_image_component": [
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_54.jpg",
+                                "title": "",
+                                "alt": "czxcxcz",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "fdsf"
+                              }
+                            },
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_75.jpg",
+                                "title": "",
+                                "alt": "dvdssdv",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "gfdgfgf"
+                              }
+                            },
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_76.jpg",
+                                "title": "",
+                                "alt": "xczxczx",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "drfgfdg"
+                              }
+                            }
+                          ],
+                          "field_subtitle": "dfdsfsd",
+                          "field_title": "gdf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_detail_awards": [
+                        {
+                          "field_description": "\u003Cp\u003Edgfg\u003C\/p\u003E\r\n",
+                          "field_links_component": [
+                            {
+                              "field_link": {
+                                "uri": "#"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_subtitle": "fdgf",
+                          "field_title": "fgdgdf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_client_reviews_component": [
+                        {
+                          "field_description": "\u003Cp\u003Esdfds\u003C\/p\u003E\r\n",
+                          "field_designation": "sfsdfd",
+                          "field_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_72.jpg",
+                            "title": "",
+                            "alt": "sfdsd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_name": "sdfdf",
+                          "field_subtitle": "fsddf",
+                          "field_title": "vvsd"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_get_in_touch": [
+                        {
+                          "field_description": "\u003Cp\u003Edfgfg\u003C\/p\u003E\r\n",
+                          "field_links_component": [
+                            {
+                              "field_link": {
+                                "uri": "#"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_subtitle": "dfgfd",
+                          "field_title": "dgdgf"
+                        }
+                      ]
+                    }
+                  ],
+                  "field_key": "fmcg",
+                  "field_unique_url": "\/fmcg"
+                },
+                "id": "156",
+                "type": "success_stories",
+                "changed": "Wed, 05\/13\/2020 - 11:18"
+              },
+              "3": {
+                "content": {
+                  "title": "Success Stories-fmcg",
+                  "body": "\u003Cp\u003Eadsdasas\u003C\/p\u003E\r\n",
+                  "field_component_type": [
+                    {
+                      "field_banner_component": [
+                        {
+                          "field_banner_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_50.jpg",
+                            "title": "",
+                            "alt": "fsdd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_banner_link": {
+                            "uri": "#",
+                            "title": "dsfd"
+                          },
+                          "field_body": "\u003Cp\u003Efdsfds\u003C\/p\u003E\r\n",
+                          "field_cta_link": {
+                            "uri": "#",
+                            "title": "sfdfdf"
+                          },
+                          "field_description": "\u003Cp\u003Edfssdf\u003C\/p\u003E\r\n",
+                          "field_mobile_banner": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_51.jpg",
+                            "title": "",
+                            "alt": "dsfds",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_subtitle": "dsfds",
+                          "field_title": "sfsf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_product_banner": [
+                        {
+                          "field_description": "\u003Cp\u003Ecccx\u003C\/p\u003E\r\n",
+                          "field_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_90.jpg",
+                            "title": "",
+                            "alt": "sddsvd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_link_detail": [
+                            {
+                              "field_link": {
+                                "uri": "#",
+                                "title": "dsffsd"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_logo_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_91.jpg",
+                            "title": "",
+                            "alt": "ccxxzc",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_title": "cxcxc"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_opportunity": [
+                        {
+                          "field_image_component": [
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_54.jpg",
+                                "title": "",
+                                "alt": "czxcxcz",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "fdsf"
+                              }
+                            },
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_75.jpg",
+                                "title": "",
+                                "alt": "dvdssdv",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "gfdgfgf"
+                              }
+                            },
+                            {
+                              "field_image": {
+                                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_76.jpg",
+                                "title": "",
+                                "alt": "xczxczx",
+                                "height": "380",
+                                "width": "1920"
+                              },
+                              "field_link": {
+                                "uri": "#",
+                                "title": "drfgfdg"
+                              }
+                            }
+                          ],
+                          "field_subtitle": "dfdsfsd",
+                          "field_title": "gdf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_detail_awards": [
+                        {
+                          "field_description": "\u003Cp\u003Edgfg\u003C\/p\u003E\r\n",
+                          "field_links_component": [
+                            {
+                              "field_link": {
+                                "uri": "#"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_subtitle": "fdgf",
+                          "field_title": "fgdgdf"
+                        }
+                      ]
+                    },
+                    {
+                      "field_client_reviews_component": [
+                        {
+                          "field_description": "\u003Cp\u003Esdfds\u003C\/p\u003E\r\n",
+                          "field_designation": "sfsdfd",
+                          "field_image": {
+                            "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_72.jpg",
+                            "title": "",
+                            "alt": "sfdsd",
+                            "height": "380",
+                            "width": "1920"
+                          },
+                          "field_name": "sdfdf",
+                          "field_subtitle": "fsddf",
+                          "field_title": "vvsd"
+                        }
+                      ]
+                    },
+                    {
+                      "field_success_get_in_touch": [
+                        {
+                          "field_description": "\u003Cp\u003Edfgfg\u003C\/p\u003E\r\n",
+                          "field_links_component": [
+                            {
+                              "field_link": {
+                                "uri": "#"
+                              },
+                              "field_link_type": "cta"
+                            }
+                          ],
+                          "field_subtitle": "dfgfd",
+                          "field_title": "dgdgf"
+                        }
+                      ]
+                    }
+                  ],
+                  "field_key": "fmcg",
+                  "field_unique_url": "\/fmcg"
+                },
+                "id": "156",
+                "type": "success_stories",
+                "changed": "Wed, 05\/13\/2020 - 11:18"
+              }
+            }
+          ],
+          "field_title": "ggfgh"
+        },
+        {
+          "field_forward_thinking_component": [
+            {
+              "field_description": "\u003Cp\u003Edsfdf\u003C\/p\u003E\r\n",
+              "field_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_48.jpg",
+                "title": "",
+                "alt": "sfdsfds",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_thumbnail_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_49.jpg",
+                "title": "",
+                "alt": "grfgdf",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_title": "dsfdf",
+              "field_video_links": [
+                {
+                  "field_link": {
+                    "uri": "#",
+                    "title": "grgf"
+                  },
+                  "field_link_type": "cta"
+                }
+              ]
+            },
+            {
+              "field_description": "\u003Cp\u003Egfhg\u003C\/p\u003E\r\n",
+              "field_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_86.jpg",
+                "title": "",
+                "alt": "hgfhgf",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_thumbnail_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_87.jpg",
+                "title": "",
+                "alt": "hfhg",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_title": "gfhh",
+              "field_video_links": [
+                {
+                  "field_link": {
+                    "uri": "#",
+                    "title": "gcgbcb"
+                  },
+                  "field_link_type": "cta"
+                }
+              ]
+            },
+            {
+              "field_description": "\u003Cp\u003Ejhgj\u003C\/p\u003E\r\n",
+              "field_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_88.jpg",
+                "title": "",
+                "alt": "gvvb",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_thumbnail_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_89.jpg",
+                "title": "",
+                "alt": "gfgf",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_title": "fghfh",
+              "field_video_links": [
+                {
+                  "field_link": {
+                    "uri": "#",
+                    "title": "fhhfg"
+                  },
+                  "field_link_type": "cta"
+                }
+              ]
+            }
+          ],
+          "field_title": "dsfdsfdsf"
+        },
+        {
+          "field_career_component": [
+            {
+              "field_background_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_85.jpg",
+                "title": "",
+                "alt": "dssc",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_description": "\u003Cp\u003Edfggfd\u003C\/p\u003E\r\n",
+              "field_explore_link": [
+                {
+                  "field_link": {
+                    "uri": "#",
+                    "title": "dvdvd"
+                  },
+                  "field_link_type": "cta"
+                }
+              ],
+              "field_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_83.jpg",
+                "title": "",
+                "alt": "dggg",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_mobile_image": {
+                "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_84.jpg",
+                "title": "",
+                "alt": "vdvsv",
+                "height": "380",
+                "width": "1920"
+              },
+              "field_subtitle": "fdgdfg",
+              "field_title": "dgfgdgf"
+            }
+          ]
+        },
+        {
+          "field_partners_awards_component": [
+            {
+              "field_left_section": [
+                {
+                  "field_description": "\u003Cp\u003Erewr\u003C\/p\u003E\r\n",
+                  "field_link_details_component": [
+                    {
+                      "field_link": {
+                        "uri": "#",
+                        "title": "eewr"
+                      },
+                      "field_link_type": "cta"
+                    }
+                  ],
+                  "field_logo_component": [
+                    {
+                      "field_image": {
+                        "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_70.jpg",
+                        "title": "",
+                        "alt": "eesfdf",
+                        "height": "380",
+                        "width": "1920"
+                      },
+                      "field_link": {
+                        "uri": "#",
+                        "title": "ewwrwer"
+                      }
+                    }
+                  ],
+                  "field_subtitle": "werewr",
+                  "field_title": "eee"
+                }
+              ],
+              "field_right_section": [
+                {
+                  "field_description": "\u003Cp\u003Esfdsfd\u003C\/p\u003E\r\n",
+                  "field_link_details_component": [
+                    {
+                      "field_link": {
+                        "uri": "#",
+                        "title": "dsfsd"
+                      },
+                      "field_link_type": "cta"
+                    }
+                  ],
+                  "field_logo_component": [
+                    {
+                      "field_image": {
+                        "url": "http:\/\/localhost\/IndigoDrupalProjects\/indigo-uat-website-cms\/web\/sites\/default\/files\/2020-05\/hero-banner-successstories-detail_71.jpg",
+                        "title": "",
+                        "alt": "sfsdf",
+                        "height": "380",
+                        "width": "1920"
+                      },
+                      "field_link": {
+                        "uri": "#",
+                        "title": "sfdfd"
+                      }
+                    }
+                  ],
+                  "field_subtitle": "fssfsdfd",
+                  "field_title": "dsfsdfdf"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "field_unique_url": "\/homeNew"
+    },
+    "id": "166",
+    "type": "template_pages",
+    "changed": "Wed, 05\/13\/2020 - 11:15"
+  }

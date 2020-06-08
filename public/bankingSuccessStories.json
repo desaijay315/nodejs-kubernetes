@@ -1,0 +1,959 @@
+[
+    {
+        "content": {
+            "title": "Success Stories-Telecom and Others",
+            "body": "<p>Lorem Ipsum</p>\r\n",
+            "field_component_type": [
+                {
+                    "field_banner": [
+                        {
+                            "field_banner_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_11.jpg",
+                                "title": "",
+                                "alt": "banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_banner_link": [],
+                            "field_body": "Lorem Ipsum",
+                            "field_cta_link": [],
+                            "field_description": "Lorem Ipsum",
+                            "field_mobile_banner": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_12.jpg",
+                                "title": "",
+                                "alt": "hero-banner-success-stories-mob",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_subtitle": "THAT MADE CUSTOMERS SMILE",
+                            "field_title": "SUCCESS STORIES"
+                        }
+                    ],
+                    "field_body": "Lorem Ipsum",
+                    "field_component_title": null,
+                    "field_description": "Lorem Ipsum"
+                },
+                {
+                    "field_success_product_banner": [
+                        {
+                            "field_description": "Shapin behaviour through excellence",
+                            "field_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/product_banner_2.jpg",
+                                "title": "",
+                                "alt": "Home Credit Product Banner",
+                                "height": "522",
+                                "width": "930"
+                            },
+                            "field_link_detail": [
+                                {
+                                    "field_link": {
+                                        "uri": "#"
+                                    },
+                                    "field_link_type": "link"
+                                }
+                            ],
+                            "field_logo_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/logo_hc.png",
+                                "title": "",
+                                "alt": "logo_hc",
+                                "height": "120",
+                                "width": "325"
+                            },
+                            "field_title": "India’s new ritual"
+                        }
+                    ]
+                },
+                {
+                    "field_success_opportunity": [
+                        {
+                            "field_image_component": [
+                                {
+                                    "field_component_type": null,
+                                    "field_image": {
+                                        "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/opportunity1_2.jpg",
+                                        "title": "",
+                                        "alt": "opportunity1",
+                                        "height": "520",
+                                        "width": "520"
+                                    },
+                                    "field_image_text": null,
+                                    "field_link": []
+                                },
+                                {
+                                    "field_component_type": null,
+                                    "field_image": {
+                                        "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/opportunity2_2.jpg",
+                                        "title": "",
+                                        "alt": "opportunity2",
+                                        "height": "520",
+                                        "width": "520"
+                                    },
+                                    "field_image_text": null,
+                                    "field_link": []
+                                },
+                                {
+                                    "field_component_type": null,
+                                    "field_image": {
+                                        "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/opportunity3_2.jpg",
+                                        "title": "",
+                                        "alt": "opportunity3",
+                                        "height": "520",
+                                        "width": "520"
+                                    },
+                                    "field_image_text": null,
+                                    "field_link": []
+                                }
+                            ],
+                            "field_subtitle": "To deliver a modern and intuitive website designed to drive traffic and online sales. ",
+                            "field_title": "The Opportunity"
+                        }
+                    ]
+                },
+                {
+                    "field_success_detail_two_column": [
+                        {
+                            "field_component_title": null,
+                            "field_component_type": null,
+                            "field_left_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "To understand why enough customers weren’t clicking on Home Credit, we deep-dived into the existing website design, inspecting it from every possible angle. The biggest problem, we discovered, was navigation. Customers weren’t able to easily find what they were searching for. In addition, there was a lack of a clear ‘Call-To-Action’ across the website. After having identified the problems, we went about fixing them. ",
+                                    "field_title": "THE HUMAN LENS"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "We began with creating a design that appealed to the target audience‘s sensibilities. We then focused on developing a well-crafted navigation, search functionality, easy purchasing paths and strategic merchandising placement. We placed the revamped ‘Products & Services’ section front and centre, and also added a ‘Store Locator’ for customers who needed immediate service. Additionally, interactive features such as ‘Apply for Loan’ forms and a Chatbot were introduced to drive sales and increase the number of online leads and enquiries. ",
+                                    "field_title": "HOW WE SHAPED BEHAVIOUR"
+                                }
+                            ],
+                            "field_right_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "A post campaign brand study revealed that we achieved:",
+                                    "field_title": "THE SUCCESS STORY"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "increased from 60K to 98K",
+                                    "field_title": "Daily page views "
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "increased from 17K to 29K",
+                                    "field_title": "Number of daily visitors "
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "rate has gone down to below 40%",
+                                    "field_title": "The overall bounce"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "increased to 4 minutes",
+                                    "field_title": "Average session duration "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_success_get_in_touch": [
+                        {
+                            "field_component_title": null,
+                            "field_description": "Call us on +91-22-43110303 or click on the button below to discuss how we can move forward.",
+                            "field_links_component": [
+                                {
+                                    "field_link": {
+                                        "uri": "entity:node/124",
+                                        "title": "GET IN TOUCH"
+                                    },
+                                    "field_link_type": "cta"
+                                }
+                            ],
+                            "field_subtitle": "Lorem Ipsum",
+                            "field_title": "Got a project? Let’s chat.."
+                        }
+                    ]
+                }
+            ],
+            "field_terms": {
+                "content": {
+                    "name": "Telecom & Others",
+                    "description": null,
+                    "field_key": "telecom-and-others",
+                    "field_url": "/telecom-and-others"
+                },
+                "id": "9",
+                "type": "success_stories",
+                "changed": "Wed, 05/06/2020 - 10:54"
+            },
+            "field_unique_url": "/telecom-and-others"
+        },
+        "id": "137",
+        "type": "success_stories",
+        "changed": "Mon, 05/11/2020 - 09:09"
+    },
+    {
+        "content": {
+            "title": "Success Stories-Financial Services",
+            "body": "<p>Lorem Ipsum</p>\r\n",
+            "field_component_type": [
+                {
+                    "field_banner": [
+                        {
+                            "field_banner_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_9.jpg",
+                                "title": "",
+                                "alt": "banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_banner_link": [],
+                            "field_body": "Lorem Ipsum",
+                            "field_cta_link": [],
+                            "field_description": "Lorem Ipsum",
+                            "field_mobile_banner": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_10.jpg",
+                                "title": "",
+                                "alt": "banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_subtitle": "THAT MADE CUSTOMERS SMILE",
+                            "field_title": "SUCCESS STORIES"
+                        }
+                    ],
+                    "field_body": "Lorem Ipsum",
+                    "field_component_title": null,
+                    "field_description": "Lorem Ipsum"
+                },
+                {
+                    "field_success_product_banner": [
+                        {
+                            "field_description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                            "field_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/nse-1_2.jpg",
+                                "title": "",
+                                "alt": "Nse banner",
+                                "height": "380",
+                                "width": "490"
+                            },
+                            "field_link_detail": [
+                                {
+                                    "field_link": {
+                                        "uri": "#"
+                                    },
+                                    "field_link_type": "link"
+                                }
+                            ],
+                            "field_logo_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/nse-logo.jpg",
+                                "title": "",
+                                "alt": "nse logo",
+                                "height": "122",
+                                "width": "353"
+                            },
+                            "field_title": "NSE"
+                        }
+                    ]
+                },
+                {
+                    "field_success_opportunity": [
+                        {
+                            "field_image_component": [
+                                {
+                                    "field_component_type": null,
+                                    "field_image": {
+                                        "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/nse-1_0.jpg",
+                                        "title": "",
+                                        "alt": "NSE",
+                                        "height": "380",
+                                        "width": "490"
+                                    },
+                                    "field_image_text": null,
+                                    "field_link": []
+                                }
+                            ],
+                            "field_subtitle": "To redesign NSE’s website with the objective of offering a seamless and user-friendly experience for millions of consumers.",
+                            "field_title": "The Opportunity"
+                        }
+                    ]
+                },
+                {
+                    "field_success_detail_two_column": [
+                        {
+                            "field_component_title": null,
+                            "field_component_type": null,
+                            "field_left_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "We started by determining the issues plaguing the existing website. We did so by identifying and reaching out to 8 unique personas across the country who were ‘key visitors’. After listening to their feedback, we came to the conclusion that there were five main areas of improvement – data error, verbose content, restrictive design, tag glitches and complicated navigation – which essentially meant that consumers couldn’t find what they were looking for. Then, we went about fixing them. ",
+                                    "field_title": "The Human Lens"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "We adopted a 3E approach of ‘Empathise, Educate, Empower’. Once we double-clicked on each of these, we were able to chart the needs of each user group, solve the issue of finding data and map user journey. We did all of this in compliance with the web content accessibility guidelines. Finally, we moved the entire database to a redesigned information infrastructure to deliver a frictionless user experience. ",
+                                    "field_title": "How We Shaped Behaviour"
+                                }
+                            ],
+                            "field_right_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                                    "field_title": "The Success Story"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "rating score from 45% to 79%",
+                                    "field_title": "Jump in URL"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "required to access information",
+                                    "field_title": "50% less time "
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "in positive sentiment",
+                                    "field_title": "14% point rise "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_success_get_in_touch": [
+                        {
+                            "field_component_title": null,
+                            "field_description": "Call us on +91-22-43110303 or click on the button below to discuss how we can move forward.",
+                            "field_links_component": [
+                                {
+                                    "field_link": {
+                                        "uri": "entity:node/124",
+                                        "title": "GET IN TOUCH"
+                                    },
+                                    "field_link_type": "cta"
+                                }
+                            ],
+                            "field_subtitle": "Lorem Ipsum",
+                            "field_title": "Got a project? Let’s chat.."
+                        }
+                    ]
+                }
+            ],
+            "field_terms": {
+                "content": {
+                    "name": "Financial Services",
+                    "description": null,
+                    "field_key": "fs",
+                    "field_url": "/financial-services"
+                },
+                "id": "3",
+                "type": "success_stories",
+                "changed": "Thu, 05/07/2020 - 15:28"
+            },
+            "field_unique_url": "/financial-services"
+        },
+        "id": "135",
+        "type": "success_stories",
+        "changed": "Sat, 05/09/2020 - 14:22"
+    },
+    {
+        "content": {
+            "title": "Success Stories-banking",
+            "body": "Lorem Ipsum",
+            "field_component_type": [
+                {
+                    "field_banner": [
+                        {
+                            "field_banner_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_5.jpg",
+                                "title": "",
+                                "alt": "Banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_banner_link": [],
+                            "field_body": "Lorem Ipsum",
+                            "field_cta_link": [],
+                            "field_description": "Lorem Ipsum",
+                            "field_mobile_banner": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_6.jpg",
+                                "title": "",
+                                "alt": "Banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_subtitle": "THAT MADE CUSTOMERS SMILE",
+                            "field_title": "SUCCESS STORIES"
+                        }
+                    ],
+                    "field_body": "Lorem Ipsum",
+                    "field_component_title": null,
+                    "field_description": "Lorem Ipsum"
+                },
+                {
+                    "field_success_product_banner": [
+                        {
+                            "field_description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                            "field_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/garnier%20%281%29_1.jpg",
+                                "title": "",
+                                "alt": "garnier",
+                                "height": "541",
+                                "width": "855"
+                            },
+                            "field_link_detail": [
+                                {
+                                    "field_link": {
+                                        "uri": "#"
+                                    },
+                                    "field_link_type": "link"
+                                }
+                            ],
+                            "field_logo_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/Garnier-logo_8.png",
+                                "title": "",
+                                "alt": "Garnier-logo",
+                                "height": "130",
+                                "width": "353"
+                            },
+                            "field_title": "CITIBANK"
+                        }
+                    ]
+                },
+                {
+                    "field_success_detail_two_column": [
+                        {
+                            "field_component_title": null,
+                            "field_component_type": null,
+                            "field_left_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "Customers’ attention spans are dwindling. Traditional media channels are unable to hold their interest any more. So, the key to engaging with our customers was to find out where they were spending their time. We undertook a data-driven approach and studied their content consumption behaviour. The result was emphatic – more Citi customers were on social media than ever before. A 5X jump in video consumption, with 8.5 hours of content consumed every month, led us to adopt a ‘Video First’ approach to reach out to them. Read on to find out how we leveraged it. ",
+                                    "field_title": "The Human Lens"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "In order to maximise reach, we targeted customers across multiple touchpoints, all through intelligently crafted and platform-friendly videos. Our content was tailored to drive spends, explain processes in the simplest possible way, scale up acquisition and reinforce Citi’s value proposition. With 2 videos every week, we ensured continuous customer engagement.",
+                                    "field_title": "How We Shaped Behaviour:"
+                                }
+                            ],
+                            "field_right_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                                    "field_title": "The Success Story"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "in engagement",
+                                    "field_title": "30%+ increase "
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "card spends",
+                                    "field_title": "7% higher "
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "preference (63% cards, 70% banking)",
+                                    "field_title": "3% increase in brand "
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "open rate with 13 million+ video views",
+                                    "field_title": "3X reach vs EDM "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_success_get_in_touch": [
+                        {
+                            "field_component_title": null,
+                            "field_description": "Call us on +91-22-43110303 or click on the button below to discuss how we can move forward.\r\n\r\n\r\n",
+                            "field_links_component": [
+                                {
+                                    "field_link": {
+                                        "uri": "entity:node/124",
+                                        "title": "GET IN TOUCH"
+                                    },
+                                    "field_link_type": "cta"
+                                }
+                            ],
+                            "field_subtitle": "Lorem Ipsum",
+                            "field_title": "Got a project? Let’s chat.."
+                        }
+                    ]
+                }
+            ],
+            "field_terms": {
+                "content": {
+                    "name": "Banking",
+                    "description": null,
+                    "field_key": "Banking",
+                    "field_url": "/banking"
+                },
+                "id": "2",
+                "type": "success_stories",
+                "changed": "Thu, 05/07/2020 - 15:33"
+            },
+            "field_unique_url": "/banking"
+        },
+        "id": "122",
+        "type": "success_stories",
+        "changed": "Sat, 05/09/2020 - 14:19"
+    },
+    {
+        "content": {
+            "title": "Success Stories-FMCG",
+            "body": "Lorem Ipsum",
+            "field_component_type": [
+                {
+                    "field_banner": [
+                        {
+                            "field_banner_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories.jpg",
+                                "title": "",
+                                "alt": "banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_banner_link": [],
+                            "field_body": "Lorem Ipsum",
+                            "field_cta_link": [],
+                            "field_description": "Lorem Ipsum",
+                            "field_mobile_banner": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_4.jpg",
+                                "title": "",
+                                "alt": "banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_subtitle": "THAT MADE CUSTOMERS SMILE",
+                            "field_title": "SUCCESS STORIES"
+                        }
+                    ],
+                    "field_body": "Lorem Ipsum",
+                    "field_component_title": null,
+                    "field_description": "Lorem Ipsum"
+                },
+                {
+                    "field_success_product_banner": [
+                        {
+                            "field_description": "A multi-channel campaign that shaped behaviour",
+                            "field_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/product_banner_0.jpg",
+                                "title": "",
+                                "alt": "garnier",
+                                "height": "565",
+                                "width": "1007"
+                            },
+                            "field_link_detail": [
+                                {
+                                    "field_link": {
+                                        "uri": "#"
+                                    },
+                                    "field_link_type": "link"
+                                }
+                            ],
+                            "field_logo_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/Garnier-logo_6.png",
+                                "title": "",
+                                "alt": "Garnier-logo",
+                                "height": "130",
+                                "width": "353"
+                            },
+                            "field_title": "India’s new ritual"
+                        }
+                    ]
+                },
+                {
+                    "field_success_opportunity": [
+                        {
+                            "field_image_component": [
+                                {
+                                    "field_component_type": null,
+                                    "field_image": {
+                                        "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/opportunity1_0.jpg",
+                                        "title": "",
+                                        "alt": "opportunity1",
+                                        "height": "515",
+                                        "width": "514"
+                                    },
+                                    "field_image_text": null,
+                                    "field_link": []
+                                },
+                                {
+                                    "field_component_type": null,
+                                    "field_image": {
+                                        "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/opportunity2_0.jpg",
+                                        "title": "",
+                                        "alt": "opportunity2",
+                                        "height": "515",
+                                        "width": "514"
+                                    },
+                                    "field_image_text": null,
+                                    "field_link": []
+                                },
+                                {
+                                    "field_component_type": null,
+                                    "field_image": {
+                                        "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/opportunity3_0.jpg",
+                                        "title": "",
+                                        "alt": "opportunity3",
+                                        "height": "514",
+                                        "width": "514"
+                                    },
+                                    "field_image_text": null,
+                                    "field_link": []
+                                }
+                            ],
+                            "field_subtitle": "To launch Garnier’s Micellar Cleansing Water and Micellar Oil-infused Cleansing Water and position them as India’s most superior make-up removal solutions.",
+                            "field_title": "THE OPPORTUNITY"
+                        }
+                    ]
+                },
+                {
+                    "field_success_detail_two_column": [
+                        {
+                            "field_component_title": null,
+                            "field_component_type": null,
+                            "field_left_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "Research says that women in India use soap, face wash, basic make-up remover, and other products such as rose water, cleansing milk, skin cream, petroleum jelly, toner, etc. to remove make-up. None of these live up to the Micellar cleansing solutions that remove impurities from the skin, and not just make-up. The young, digital-savvy make-up users in India were especially looking for a superior make-up removal solution that could be added to their daily skin-care routine. We spotted this gap between consumer expectation and available product efficacy and launched Micellar Water with the aim of filling it.",
+                                    "field_title": "THE HUMAN LENS"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "Putting on make-up is a happy act, but taking it off is quite the struggle. So, we created a simple, three-step ritual to change the perception of make-up removal by demonstrating Micellar Water’s ease of use and effectiveness.",
+                                    "field_title": "HOW WE SHAPED BEHAVIOUR"
+                                }
+                            ],
+                            "field_right_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "A post campaign brand study revealed that we achieved:",
+                                    "field_title": "THE SUCCESS STORY"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "Views in 15 days",
+                                    "field_title": "15 million"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "Completed views",
+                                    "field_title": "10.4 million"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "Online sales",
+                                    "field_title": "4x of desired target"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_success_detail_awards": [
+                        {
+                            "field_component_title": null,
+                            "field_description": "Best Marketing Campaign\r\nacross L’Oreal Worldwide",
+                            "field_links_component": [
+                                {
+                                    "field_link": {
+                                        "uri": "#"
+                                    },
+                                    "field_link_type": "link"
+                                }
+                            ],
+                            "field_subtitle": "2018",
+                            "field_title": "AWARDS"
+                        }
+                    ]
+                },
+                {
+                    "field_client_reviews_component": [
+                        {
+                            "field_description": "<p class=\"fadeInUp wow\" data-wow-delay=\"1s\">Their planning, strategy and creative delivery work in perfect tandem and one can be assured to receive quick, innovative solutions. They’re partners who can be counted on and when in need, the team will always have your back. </p>\r\n<p class=\"fadeInUp wow\" data-wow-delay=\"1s\">Their planning, strategy and creative delivery work in perfect tandem and one can be assured to receive quick, innovative solutions.</p>",
+                            "field_designation": "Digital Marketing Head, Garnier",
+                            "field_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/client_1.jpg",
+                                "title": "",
+                                "alt": "Saloni",
+                                "height": "311",
+                                "width": "315"
+                            },
+                            "field_name": "Saloni Shah",
+                            "field_subtitle": "It’s been a pleasure to work with Indigo Consulting!",
+                            "field_title": "Client Reviews"
+                        }
+                    ]
+                },
+                {
+                    "field_success_get_in_touch": [
+                        {
+                            "field_component_title": null,
+                            "field_description": "Call us on +91-22-43110303 or click on the button below to discuss how we can move forward.",
+                            "field_links_component": [
+                                {
+                                    "field_link": {
+                                        "uri": "entity:node/124",
+                                        "title": "GET IN TOUCH"
+                                    },
+                                    "field_link_type": "cta"
+                                }
+                            ],
+                            "field_subtitle": "Lorem Ipsum",
+                            "field_title": "Got a project? Let’s chat.."
+                        }
+                    ]
+                }
+            ],
+            "field_terms": {
+                "content": {
+                    "name": "FMCG",
+                    "description": null,
+                    "field_key": "fmcg",
+                    "field_url": "/fmcg"
+                },
+                "id": "4",
+                "type": "success_stories",
+                "changed": "Thu, 05/07/2020 - 15:29"
+            },
+            "field_unique_url": "/fmcg"
+        },
+        "id": "136",
+        "type": "success_stories",
+        "changed": "Sat, 05/09/2020 - 14:12"
+    },
+    {
+        "content": {
+            "title": "Success Stories-Media and Entertainment",
+            "body": "Lorem Ipsum",
+            "field_component_type": [
+                {
+                    "field_banner": [
+                        {
+                            "field_banner_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_7.jpg",
+                                "title": "",
+                                "alt": "banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_banner_link": [],
+                            "field_body": "Lorem Ipsum",
+                            "field_cta_link": [],
+                            "field_description": "Lorem Ipsum",
+                            "field_mobile_banner": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/hero-banner-successstories_8.jpg",
+                                "title": "",
+                                "alt": "banner-success-stories",
+                                "height": "476",
+                                "width": "1920"
+                            },
+                            "field_subtitle": "THAT MADE CUSTOMERS SMILE",
+                            "field_title": "SUCCESS STORIES"
+                        }
+                    ],
+                    "field_body": "Lorem Ipsum",
+                    "field_component_title": null,
+                    "field_description": "Lorem Ipsum"
+                },
+                {
+                    "field_success_product_banner": [
+                        {
+                            "field_description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                            "field_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/uri-thumb1.png",
+                                "title": "",
+                                "alt": "URI banner",
+                                "height": "1192",
+                                "width": "1198"
+                            },
+                            "field_link_detail": [
+                                {
+                                    "field_link": {
+                                        "uri": "#"
+                                    },
+                                    "field_link_type": "link"
+                                }
+                            ],
+                            "field_logo_image": {
+                                "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/uri.png",
+                                "title": "",
+                                "alt": "uri-logo",
+                                "height": "674",
+                                "width": "491"
+                            },
+                            "field_title": "URI – THE SURGICAL STRIKE"
+                        }
+                    ]
+                },
+                {
+                    "field_success_opportunity": [
+                        {
+                            "field_image_component": [
+                                {
+                                    "field_component_type": null,
+                                    "field_image": {
+                                        "url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-05/uri_0.png",
+                                        "title": "",
+                                        "alt": "URI",
+                                        "height": "674",
+                                        "width": "491"
+                                    },
+                                    "field_image_text": null,
+                                    "field_link": []
+                                }
+                            ],
+                            "field_subtitle": "To craft a digital experience aimed at amplifying the desire of Gen Z to rush to the cinema halls and watch ‘URI – The Surgical Strike’.",
+                            "field_title": "The Opportunity:"
+                        }
+                    ]
+                },
+                {
+                    "field_success_detail_two_column": [
+                        {
+                            "field_component_title": null,
+                            "field_component_type": null,
+                            "field_left_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "‘Uri – The Surgical Strike’ is based on a real life incident. It involved Indian para-commandos on a ground breaking mission to defeat the terrorists. The setting of the movie lent itself to an action packed gaming idea as both relied heavily on teamwork, precision, survival skills and strategy. And, given the exponential growth that mobile gaming was witnessing in India, this felt like a match made in entertainment heaven. ",
+                                    "field_title": "THE HUMAN LENS"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "We decided to give the Gen Z a taste of the ‘real battle’ by tying up with PUBG, where we created a unique battlefield, thus giving every millennial with a mobile a chance to conduct their own surgical strike. We also got some of India’s finest PUBG champs to participate in the event, along with the film’s leading star Vicky Kaushal. \r\n\r\nThe whole activity was divided into three parts culminating with the day of the ‘surgical strike’ that saw Vicky going head-to-head with all but 4 chosen teammates for three rounds on the battlefield. The entire activity was also live streamed for fans across the country generating tremendous buzz around the movie. \r\n",
+                                    "field_title": "HOW WE SHAPED BEHAVIOUR"
+                                }
+                            ],
+                            "field_right_part": [
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": " Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+                                    "field_title": "THE SUCCESS STORY"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "of live stream",
+                                    "field_title": "425,000+ views"
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "registrations",
+                                    "field_title": "13,000+ "
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "impressions",
+                                    "field_title": "10,53,190+ "
+                                },
+                                {
+                                    "field_component_id": null,
+                                    "field_component_type": null,
+                                    "field_description": "by an Indian production house",
+                                    "field_title": "1st PUBG driven marketing campaign "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "field_success_get_in_touch": [
+                        {
+                            "field_component_title": null,
+                            "field_description": "Call us on +91-22-43110303 or click on the button below to discuss how we can move forward.\r\n",
+                            "field_links_component": [
+                                {
+                                    "field_link": {
+                                        "uri": "entity:node/124",
+                                        "title": "GET IN TOUCH"
+                                    },
+                                    "field_link_type": "cta"
+                                }
+                            ],
+                            "field_subtitle": "Lorem Ipsum",
+                            "field_title": "Got a project? Let’s chat.."
+                        }
+                    ]
+                }
+            ],
+            "field_terms": {
+                "content": {
+                    "name": "Media & Entertainment",
+                    "description": null,
+                    "field_key": "media",
+                    "field_url": "/media-and-entertainment"
+                },
+                "id": "6",
+                "type": "success_stories",
+                "changed": "Thu, 05/07/2020 - 15:28"
+            },
+            "field_unique_url": "/media-and-entertainment"
+        },
+        "id": "134",
+        "type": "success_stories",
+        "changed": "Sat, 05/09/2020 - 14:11"
+    },
+    {
+        "content": {
+            "title": "Success Stories-Manufacture",
+            "body": null,
+            "field_component_type": "",
+            "field_terms": {
+                "content": {
+                    "name": "Manufacturing",
+                    "description": null,
+                    "field_key": "manufacturing",
+                    "field_url": "/manufacturing"
+                },
+                "id": "5",
+                "type": "success_stories",
+                "changed": "Wed, 05/06/2020 - 10:53"
+            },
+            "field_unique_url": "/manufacturing"
+        },
+        "id": "123",
+        "type": "success_stories",
+        "changed": "Fri, 04/24/2020 - 18:31"
+    }
+]

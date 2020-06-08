@@ -1,0 +1,291 @@
+/*** layout ***/
+
+.flex-wrapper {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flexbox;
+  display: -moz-flex;
+  display: -o-flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -o-flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+#hero {
+  width: 100%;
+}
+
+/*** canvas ***/
+
+#canvas {
+  height: 100vh;
+  width: 100vw;
+
+  z-index: 10;
+}
+
+
+.multi-textures {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  bottom: 5%;
+  left: 5%;
+  z-index: 15;
+  font-size: 3em;
+  color: white;
+
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+}
+
+.multi-textures img {
+  display: none;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+
+/*** handling errors ***/
+
+.no-curtains .multi-textures {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.no-curtains .multi-textures span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3D(-50%, -50%, 0);
+}
+
+.no-curtains.image-1 .multi-textures img:nth-child(3) {
+  display: block;
+}
+
+.no-curtains.image-2 .multi-textures img:nth-child(4) {
+  display: block;
+}
+
+.no-curtains.image-3 .multi-textures img:nth-child(5) {
+  display: block;
+}
+
+.no-curtains.image-4 .multi-textures img:nth-child(6) {
+  display: block;
+}
+
+#hero .container-fluid{
+  position: relative;
+}
+#pagination{position: absolute; bottom: 55px; left: 0; display: flex; z-index: 100;}
+#pagination span{background:transparent;  color: #fff; cursor: pointer; list-style-type: none; padding: 3px 5px; border: solid 1px #717171; width: 16px; height: 16px; margin: 0 8px;}
+#pagination span.active{background: #0CA6E4; border-color: #0CA6E4}
+
+:root {
+  --fill-color: #0CA6E4;
+  --secondary-color: #3d8bb1;
+  --stroke-color: #1d2a53;
+  --white: white;
+}
+
+.carousel-container{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+.carousel-container h2{
+  color: var(--white);
+  margin-bottom: 0!important;
+}
+.carousel-container h3, .carousel-container p{
+  color: var(--fill-color);
+}
+
+#carouselText{
+  font-size: 6.25rem;
+  font-weight: 400;
+  line-height: 1;
+  text-transform: uppercase;
+  font-family: 'CeraProBold';
+  color: #fff;
+  -webkit-text-stroke: 1px var(--white);
+  /*text-shadow: -1px -1px 0 var(--stroke-color), 1px -1px 0 var(--stroke-color), -1px 1px 0 var(--stroke-color), 1px 1px 0 var(--stroke-color);*/
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+}
+
+.menu span {
+  position: relative;
+  display: inline-block;
+
+  background-image: linear-gradient(#0CA6E4, #0CA6E4);
+  -webkit-background-clip: text;
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 100% 0%;
+}
+.menu span::before {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  overflow: hidden;
+  color: var(--fill-color);
+  white-space: nowrap;
+  transition: all 1s cubic-bezier(0.29, 0.73, 0.74, 1.02);
+}
+
+.menu [data-animation] span::before,
+.menu span.active::before {
+  width: 100%;
+}
+.menu span.active {
+  -webkit-text-stroke: 1px var(--fill-color);
+  /*-webkit-text-fill-color: var(--fill-color);*/
+  background-size: 100% 100%;
+  transition: all 1s cubic-bezier(0.29, 0.73, 0.74, 1.02);
+}
+
+.menu [data-animation="to-left"] span,
+.menu [data-animation="to-top"] span {
+  color: var(--fill-color);
+}
+
+.menu [data-animation="to-left"] span::before,
+.menu [data-animation="to-top"] span::before {
+  color: var(--white);
+}
+
+.menu [data-animation="to-left"] span.active::before {
+  width: 0;
+}
+
+.menu [data-animation="to-top"] span::before {
+  height: 100%;
+}
+
+.menu [data-animation="to-top"] span.active::before {
+  height: 0;
+}
+
+.menu [data-animation="to-bottom"] span::before {
+  height: 0;
+}
+
+.menu [data-animation="to-bottom"] span.active::before {
+  height: 100%;
+}
+#carouselText{
+  margin-bottom: 30px;
+}
+.menu .desc{
+  display: none;
+}
+.menu .desc.active{
+  display: block;
+}
+.scroll {
+  bottom: 0px;
+  color: #fff;
+  font-family: 'CeraProRegular';
+  font-size: 12px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 50%;
+  margin-left: -22px;
+  z-index: 999;
+}
+.verticalLine {
+  border-left: 1px solid #fff;
+  display: block;
+  height: 25px;
+  margin: 6px 0 10px -1px;
+  left: 50%;
+  position: relative;
+}
+
+@-moz-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -moz-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-30px);
+    -ms-transform: translateY(-30px);
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -moz-transform: translateY(-15px);
+    -ms-transform: translateY(-15px);
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+.bounce {
+  -moz-animation: bounce 2s;
+  -webkit-animation: bounce 2s;
+  animation: bounce 2s;
+}
+
+@media screen and (max-width: 1000px) {
+
+.multi-textures {
+  font-size: 2em;
+}
+
+}
+
+@media screen and (max-width: 767px) {
+  .scroll{
+    display: none;
+  }
+}

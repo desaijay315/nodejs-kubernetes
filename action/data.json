@@ -1,0 +1,81 @@
+{
+"content": {
+"title": "Success Stories-banking",
+"body": null,
+"field_banner": "",
+"field_get_in_touch_component": "",
+"field_product_banner_component": [
+{
+"field_description": "A multi-channel campaign that shaped behaviour",
+"field_image": {
+"url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-04/garnier_2.jpg",
+"title": "",
+"alt": "Garnier Image",
+"height": "541",
+"width": "855"
+},
+"field_link_detail": [
+{
+"field_link": {
+"uri": "#",
+"title": "View More"
+},
+"field_link_type": null
+}
+],
+"field_logo_image": {
+"url": "http://indigo-cms.indigo-consulting.co.in/sites/default/files/2020-04/Garnier-logo_2.png",
+"title": "",
+"alt": "Garnier Logo",
+"height": "130",
+"width": "353"
+},
+"field_title": "Miceler"
+}
+],
+"field_terms": {
+"content": {
+"name": "Banking",
+"description": null,
+"field_key": "Banking",
+"field_url": "/banking"
+},
+"id": "2",
+"type": "success_stories",
+"changed": "Thu, 05/07/2020 - 15:33"
+},
+"field_the_opportunity_component": "",
+"field_tw": [
+{
+"field_component_title": null,
+"field_component_type": null
+}
+],
+"field_two_": [
+{
+"field_component_title": null,
+"field_component_type": null,
+"field_left_part": [
+{
+"field_component_id": null,
+"field_component_type": null,
+"field_description": null,
+"field_title": null
+}
+],
+"field_right_part": [
+{
+"field_component_id": null,
+"field_component_type": null,
+"field_description": null,
+"field_title": null
+}
+]
+}
+],
+"field_unique_url": "/banking"
+},
+"id": "122",
+"type": "success_stories",
+"changed": "Fri, 04/24/2020 - 18:29"
+}

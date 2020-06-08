@@ -1,0 +1,46 @@
+
+#canvas {
+    /* make the canvas wrapper fits the window */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+  }
+  
+  @charset "UTF-8";
+  
+  .plane {
+    /* define the size of your plane */
+    width: 80%;
+    max-width: 1400px;
+    height: 80vh;
+    position: relative;
+    top: 10vh;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  @media (min-width: 1401px){
+    .plane{
+      max-width: 100%;
+    }
+  }
+  .plane img {
+    /* hide the img element */
+    display: none;
+  }
+  
+  /*** in case of error show the image ***/
+  
+  .no-curtains .plane {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .no-curtains .plane img {
+    display: block;
+    max-width: 100%;
+    object-fit: cover;
+  }

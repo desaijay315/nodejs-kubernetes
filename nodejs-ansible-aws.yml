@@ -1,0 +1,34 @@
+# Option-1 : Createting docker image using command module 
+---
+- hosts: all
+  become: true
+  tasks:
+  - name: stop current running container
+    command: docker stop nodejs-devops-container
+    ignore_errors: yes
+
+  - name: remove stopped container
+    command: docker rm nodejs-devops-container
+    ignore_errors: yes
+
+  - name: remove docker image
+    command: docker rmi nodejs-devops-image
+    ignore_errors: yes
+
+  - name: building docker image
+    command: docker build -t nodejs-devops-image .
+    args:
+      chdir: /opt/docker/docker-nodejs
+  - name: create container using nodejs devops image
+    command: docker run -d --name nodejs-devops-container -p 8080:8080 nodejs-devops-image
+
+# option-2 : creating docker image using docker_image module 
+
+#  tasks:
+#  - name: building docker image
+#    docker_image:
+#      build:
+#        path: /opt/docker
+#      name: nodejs-devops-image
+#     tag: v1
+#     source: build

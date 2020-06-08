@@ -1,0 +1,134 @@
+figure.brand-img img,
+.video_wrapper img {
+  position: relative;
+  bottom: 0;
+  z-index: 1;
+  transform: translateY(100%);
+  transition: all 0.8s ease !important;
+}
+figure.brand-img.img-scale img,
+.video_wrapper.img-scale img {
+  transform: translateY(0%);
+}
+figure.brand-img,
+.video_wrapper {
+  background-color: rgba(0, 0, 0, 0.03);
+  position: relative;
+  min-height: 173px;
+}
+figure.brand-img::after,
+.video_wrapper::after {
+  content: "";
+  background: #f8f7f5;
+  position: absolute;
+  width: 100%;
+  height: 0;
+  bottom: 0;
+  left: 0;
+  transition: 0.5s ease;
+  z-index: 0;
+}
+figure.brand-img.img-loaded::after,
+.video_wrapper.img-loaded::after {
+  height: 100%;
+}
+
+.videoContain {
+  position: relative;
+}
+.videoContain .av_desc {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.4);
+  width: 100%;
+  color: #fff;
+  padding: 10px 15px;
+  z-index: 1;
+  transition: all 0.6s;
+}
+.videoContain .desc_wrap {
+  position: relative;
+}
+.videoContain .desc_wrap .av_desc:not(:first-child) {
+  display: none;
+}
+
+.videoContain.av_box .av_desc:after {
+  left: 15px;
+  bottom: 5px;
+  display: none;
+}
+
+.fwd_thinking_section .videoContain .video_wrapper .video_link {
+  top: 42%;
+}
+.owl-nav.disabled, .owl-dots.disabled{
+ display: none;
+}
+#videoThumb .videoLink {
+  cursor: pointer;
+  margin-right: 10px;
+  position: relative;
+}
+#videoThumb img {
+  max-width: 100%;
+  border: 3px solid #fff;
+}
+#videoThumb .videoLink.active img{
+  border: 3px solid #0ca6e4;
+}
+/* #videoThumb .videoLink.active:after {
+  content: "";
+  position: absolute;
+  border: 3px solid #0ca6e4;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+}
+#videoThumb .videoLink:not(.active)::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  top: 0;
+  left: 0;
+  transition: 0.5s ease;
+}
+#videoThumb .videoLink:hover:not(.active)::after {
+  background: rgba(0, 0, 0, 0);
+} */
+.overflowXhidden {
+  overflow-x: hidden;
+}
+
+#successCarousel {
+  margin: 0 -15px;
+}
+#successCarousel,
+.owl-stage {
+  display: flex;
+}
+#successCarousel.list {
+  flex-direction: column;
+}
+#carouselNav{
+ position: relative;
+}
+
+.hide {
+  display: none !important;
+}
+@media (max-width: 1440px) {
+  figure.brand-img,
+  .video_wrapper {
+    min-height: 150px;
+  }
+}
+@media (max-width: 992px) {
+  .nav_wrap .icon-grid-listing {
+    display: none;
+  }
+}

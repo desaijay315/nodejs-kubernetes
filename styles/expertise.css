@@ -1,0 +1,368 @@
+
+/*--------------------------------------------------------------
+# Sections General
+--------------------------------------------------------------*/
+
+.driving_transformation{
+  width: 100%; padding: 90px 0 120px;
+}
+.expertise_digital .container-fluid{
+  max-width: 100%;
+}
+.driving_transformation h2 {font-family: 'CeraProBold'; font-size: 5rem;; color:#000; line-height: 1;}
+.driving_transformation p {font-family: 'CeraProRegular'; font-size: 1.5625rem; color:#000;}
+
+.expertise_digital {width: 100%; padding: 30px 0 0; position: relative; overflow: hidden;}
+.expertise_digital h2 {background-color: #00030A; text-align: center; padding: 10px 0; font-family: 'CeraProBold'; color:#2072C2; font-size: 5rem; margin: 0;
+
+}
+
+
+.expertise_digital h4 {font-family: 'CeraProBold'; font-size: 20.3125rem; position: absolute; left: 0; top: 0; right:0; bottom: 0; z-index: 10; margin: auto; width: 100%; text-align: center; display: inline-table; z-index: 0; -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff; opacity: 0.9;}
+.digitBdrBox {width: 100%; height: 100%; background: transparent; opacity: 0.5; position: absloute; left: 0; top:0; }
+.digitalBdr {border-right:1px solid #404650; border-bottom:1px solid #404650;}
+.expertise_digital .expertiseContain {background:#000 url(/img/expertiseBg.jpg) no-repeat left top; background-size: cover; min-height: 950px; position: relative;}
+
+.digital_box {width: 100%; height: 100%; -webkit-transition: -webkit-transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  transition: transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;}
+
+.digital_box h3 {color:#fff; font-family: 'CeraProBold';
+  font-size: 3.75rem; margin-top: 30px; position: relative;
+  -webkit-transform: translateY(50px);
+  transform: translateY(50px);
+  -webkit-transition: -webkit-transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  transition: transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+}
+.digital_box h3::after {
+  background: #0CA6E4 none repeat scroll 0 0;
+  content: "";
+  display: block;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  bottom: -10px;
+  transition: all 0.5s ease-out;
+  width: 80px;
+}
+.digital_box p {width: 65%; line-height: 1.3;
+  color: #fff; font-family: 'CeraProMedium'; font-size: 2rem;
+  -webkit-transition: -webkit-transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  transition: transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  -webkit-transform: translateY(0px);
+  transform: translateY(0px);
+  opacity: 1;  margin-top: 30px;
+  will-change: transform, opacity;
+}
+.digital_box a {
+  color: #0CA6E4; font-family: 'CeraProMedium'; font-size: 2.25rem;
+  -webkit-transition: -webkit-transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  transition: transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  -webkit-transform: translateY(170px);
+  transform: translateY(170px);
+  opacity: 0; line-height: 1.1;
+  will-change: transform, opacity;
+}
+
+.digital_box2 {display: flex; justify-content: flex-end; flex-direction: column !important;}
+.digital_box:hover {cursor: pointer; background-color: rgba(0, 0, 0, 0.6);}
+
+.digital_box:hover h3 {  -webkit-transition: -webkit-transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  transition: transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  -webkit-transform: translateY(0px);
+  transform: translateY(0px);
+  will-change: transform, opacity;
+}
+.mainBox { -webkit-transition: -webkit-transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  transition: transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out; opacity: 0;
+  -webkit-transform: translateY(100px);
+  transform: translateY(100px); padding-bottom: 20px;
+min-height: 120px;
+}
+
+.digital_box:hover .mainBox {-webkit-transition: -webkit-transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  transition: transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  -webkit-transform: translateY(0px);
+  transform: translateY(0px);
+  opacity: 1;
+  will-change: transform, opacity; display: block;}
+
+.digital_box a{
+  position: relative;
+}
+.digital_box a span{
+  display: inline-block;
+}
+.digital_box a i{
+  width: 82px;
+  height: 30px;
+  /*left: 30px;*/
+  position: relative;
+  display: inline-block;
+  transition: all .8s ease-out;
+  opacity: 0;
+  transform: translateX(-40px);
+  top:4px;
+}
+.digital_box:hover .mainBox a i{
+  transform: translateX(0);
+  opacity: 1;
+}
+.digital_box a i:after{
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  width: 80px;
+  height: 6px;
+  background: #0CA6E4;
+  content: "";
+  transition: all .3s ease-out;
+}
+.digital_box a i:before{
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  width: 24px;
+  height: 24px;
+  border-top: solid 6px #0CA6E4;
+  border-right: solid 6px #0CA6E4;
+  content: "";
+  transform: rotate(45deg);
+  margin-top: -9px;
+  transition: all .3s ease-out;
+}
+
+.digital_box:hover a  {
+  -webkit-transition: -webkit-transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  transition: transform .4s ease-out, opacity .4s ease-out, background-color 0.5s ease-out;
+  -webkit-transform: translateY(0px);
+  transform: translateY(0px);
+  opacity: 1;
+  will-change: transform, opacity;
+}
+.digital_box:hover h3::after {width:0;}
+.digital_box.digital_box2 h3 {  -webkit-transform: translateY(200px);transform: translateY(200px);}
+.digital_box.digital_box2:hover h3 {-webkit-transform: translateY(0px);transform: translateY(0px);}
+
+.expertise_digital h4 svg{
+  max-width: 50%; display: none;
+}
+
+.digital {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 0;
+  animation: progress 3s;
+}
+
+@keyframes progress {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.careers_impact {position: relative;}
+.careers_impact .container-fluid {max-width: 100%;}
+.careers_impact img {width: 100%;}
+.careers_impact .careersBoxTop {position: absolute; width: 100%; z-index: 99;}
+.careers_impact .careersText {width: 90%; margin-left: 10%; padding-bottom: 30px;}
+
+.careers_impact .careersText h2 {font-size: 5rem; font-family: 'CeraProBold'; margin: 0;}
+.careers_impact .careersText h3 {font-size: 3.75rem; font-family: 'CeraProMedium'; line-height: 1;}
+.careers_impact .careersText p {font-size: 1.5625rem; font-family: 'CeraProRegular';}
+.careers_impact .careersText a {border-color: #fff; color: #fff!important;}
+.careers_impact .careersText a span{
+  background: #fff;
+  color: #0CA6E4;
+}
+.careers_impact .careersText a:before {border-color:#fff;}
+.careers_impact .careersText a:after {background-color:#fff;}
+.careers_impact .careersText a.active{border-color: #fff!important;}
+.careers_impact .careersText a.active:before{border-color: #0CA6E4;}
+.careers_impact .careersText a.active:after {background-color:#0CA6E4;}
+
+@media(max-width: 1600px){
+  .driving_transformation h2 {font-size: 70px;}
+  .expertise_digital h2 {font-size: 72px; padding: 6px 0;}
+  .digital_box h3 {font-size: 54px;}
+  .expertise_digital .expertiseContain {min-height: 795px;}
+  .digital_box.digital_box2 h3 {  -webkit-transform: translateY(150px);transform: translateY(150px);}
+  .driving_transformation p {font-size: 1.675rem;}
+
+}
+
+@media(max-width: 1500px){
+  .driving_transformation h2 {font-size: 62px; margin-bottom: 25px;}
+  .expertise_digital h2 {font-size: 60px; padding: 4px 0;}
+  .digital_box h3 {font-size: 40px;}
+  .expertise_digital .expertiseContain {min-height: 700px;}
+  .digital_box p {font-size: 20px; margin-top: 15px; width: 80%;}
+  .expertise_digital h3::after {width: 60px;}
+  .expertise_digital { padding: 0;}
+  .digital_box.digital_box2 h3 {  -webkit-transform: translateY(70px);transform: translateY(70px);}
+  .mainBox {padding-bottom:20px ;}
+
+}
+
+@media(min-width: 1440px){
+  .digital_box a i{
+    left: 30px;
+  }
+}
+@media(max-width: 1440px){
+  .digital_box a i{
+    /*padding-left: 90px;*/
+    height: 20px;
+  }
+  .digital_box a i:after{
+    width: 40px;
+    height: 4px;
+  }
+  .digital_box a i:before{
+    width: 16px;
+    height: 16px;
+    border-top: solid 4px #0CA6E4;
+    border-right: solid 4px #0CA6E4;
+    margin-top: -6px;
+  }
+}
+
+@media(max-width: 1400px){
+  .driving_transformation h2 {font-size: 55px; line-height: 1.1;}
+  .expertise_digital h2 {font-size: 50px; padding: 3px 0;}
+  .digital_box h3 {font-size: 35px;}
+  .expertise_digital .expertiseContain {min-height: 625px;}
+  .driving_transformation p {font-size: 16px;}
+  .digital_box h3::after {width: 60px;}
+  .digital_box p {font-size: 18px;}
+  .digital_box a {font-size: 20px;}
+
+
+
+}
+
+@media(max-width: 1120px){
+  .driving_transformation {padding: 60px 0;}
+  .driving_transformation h2 {font-size: 45px; margin-bottom: 25px;}
+  .expertise_digital {padding-top:0 ;}
+  .expertise_digital h2 {padding: 10px 0; font-size: 42px;}
+  .digital_box h3 {font-size: 2rem;}
+  .digital_box p {font-size: 17px;}
+  .digital_box a {font-size: 20px;}
+  .expertise_digital .expertiseContain {min-height: 520px;}
+  .expertise_digital h4 {font-size: 160px;}
+  .digital_box h3::after {width: 55px;}
+
+
+}
+
+@media(max-width: 1024px){
+  .mainBox, .digital_box.digital_box2 h3, .digital_box h3, .digital_box a {
+    transform: none;
+    -webkit-transform: none;
+    opacity: 1;
+  }
+
+  .digital_box a i{
+    /*left:15px;*/
+    height: 6px;
+    width: 16px;
+    opacity: 1;
+    transform: none;
+  }
+  .digital_box a i:after{
+    width: 12px;
+    height: 1px;
+    right: 0;
+  }
+  .digital_box a i:before{
+    width: 6px;
+    height: 6px;
+    border-top: solid 1px #0CA6E4;
+    border-right: solid 1px #0CA6E4;
+    margin-top: -2px;
+    right: 0;
+  }
+
+}
+
+@media(max-width: 768px){
+  .driving_transformation {padding: 40px 0;}
+  .driving_transformation h2 {font-size: 36px;}
+  .btn-primary:after, .driving_transformation a::before {right:10px;}
+  .expertise_digital h2 {font-size: 36px;}
+  .expertise_digital p {width: 100%;}
+
+  .careers_impact .careersText {margin-left: 4%; width: 96%; padding-bottom: 5px;}
+  .careers_impact .careersText h2 {font-size: 38px; line-height: 1;}
+  .careers_impact .careersText h3 {font-size: 25px;}
+  .careers_impact .careersText p {margin: 0; padding: 0;}
+  .careers_impact .careersText a {padding-left: 15px; padding-right:48px; font-size: 14px;}
+  .digital_box2{
+    justify-content: flex-start;
+  }
+}
+
+@media(max-width: 767px){
+  .expertise_digital .expertiseContain {min-height: auto;}
+  .expertise_digital h2 {padding-left: 1.5rem!important; text-align: left; font-size: 60px;}
+  .expertise_digital h4 {position: relative; padding-left: 1.5rem!important; text-align: left; font-size: 10rem;}
+
+  .digital_box:hover {background-color:transparent;}
+
+  .expertise_digital .expertiseContain{
+    background-size: contain;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 40px
+  }
+  .expertiseContain .digitalBdr:nth-child(even){
+    border-left: 1px solid #404650;
+  }
+  .expertiseContain .digitalBdr:nth-child(2){
+    border-top: 1px solid #404650;
+  }
+  .expertiseContain .digitalBdr:nth-child(3){
+    border-top: 1px solid #404650;
+  }
+  .expertise_digital h3::after{
+    display: none;
+  }
+  .expertise_digital h3{
+    margin-top: 0;
+    transform: none;
+  }
+  .expertise_digital p{
+    opacity: 1;
+    font-size: 1.25rem;
+    font-family: 'CeraProRegular';
+    transform: none;
+    margin-top: 0;
+  }
+  .digital_box:hover p {margin-top: 0px;}
+  .expertise_digital a{
+    opacity: 1;
+    transform: none;
+    font-size: 1rem;
+  }
+  .expertise_digital h4 svg{
+    max-width: 90%;
+  }
+  .expertise_digital .digital{
+    stroke-width: 2px;
+  }
+  .mainBox{
+    min-height: 80px;
+  }
+
+  .careers_impact .careersText {margin-left: 5%; width: 86%;}
+  .careers_impact .careersBoxTop {bottom:40px;}
+  .careers_impact .careersText h2 {font-size: 2.3333rem;}
+  .careers_impact .careersText h3 {font-size: 1.8333rem;}
+  .careers_impact .careersText p {font-size: 14px; margin: 30px 0 10px;}
+  .careers_impact .careersText a {font-size: 14px; text-transform: uppercase; padding-right: 60px; padding-left: 25px;}
+
+}

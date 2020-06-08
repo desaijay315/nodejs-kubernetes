@@ -1,0 +1,120 @@
+{
+    "content": {
+        "title": "Article-News",
+        "body": "<p>sdfsfd</p>\r\n",
+        "field_component_type": [
+            {
+                "field_banner": [
+                    {
+                        "url": "http://localhost/IndigoDrupalProjects/indigo-uat-website-cms/web/sites/default/files/2020-05/hero-banner-successstories-detail_27.jpg",
+                        "title": "",
+                        "alt": "fdfds",
+                        "height": "380",
+                        "width": "1920",
+                        "uri": "#",
+                        "field_body": "<p>fdsfd</p>\r\n",
+                        "field_description": "<p>fdsfdf</p>\r\n",
+                        "field_subtitle": "TO KEEP YOU UP TO SPEED",
+                        "field_title": "NEWS & INSIGHTS"
+                    }
+                ]
+            },
+            {
+                "field_heading_component": [
+                    {
+                        "field_component_id": null,
+                        "field_component_type": null,
+                        "field_description": "<p>dsfds</p>\r\n",
+                        "field_title": "Indigo Consulting announces Senior VP elevations"
+                    }
+                ]
+            },
+            {
+                "field_news_details_main": [
+                    {
+                        "url": "http://localhost/IndigoDrupalProjects/indigo-uat-website-cms/web/sites/default/files/2020-05/hero-banner-successstories-detail_28.jpg",
+                        "title": "",
+                        "alt": "dfsfdf",
+                        "height": "380",
+                        "width": "1920",
+                        "field_component_type": null,
+                        "field_content": "<p>Speaking about his new role, Prashant said, “I believe this is the best time to leverage the tremendous momentum Indigo Consulting is seeing. My new role and responsibilities will see me deep-dive further into the digital marketing and transformation agenda for key brands in the north and east markets. These markets are brimming with potential and I look forward to driving a significant amount of the business back home to Indigo Consulting.”</p>\r\n,<p>Speaking about his new role, Prashant said, “I believe this is the best time to leverage the tremendous momentum Indigo Consulting is seeing. My new role and responsibilities will see me deep-dive further into the digital marketing and transformation agenda for key brands in the north and east markets. These markets are brimming with potential and I look forward to driving a significant amount of the business back home to Indigo Consulting.”</p>\r\n",
+                        "uri": "#",
+                        "field_subtitle": "fdsfs",
+                        "field_title": "Saurabh Mankhand, Sumitra Sarkar and Prashant Tekwani will handle West, South and North & East regions respectively",
+                        "field_video_id": "fsdfdfd"
+                    }
+                ]
+            },
+            {
+                "field_news_detail_more_article": [
+                    {
+                        "field_date": "12-May-2020",
+                        "field_more_articles": [
+                            {
+                                "url": "/img/news/indigo-02.jpg",
+                                "title": "",
+                                "alt": "gfgfg",
+                                "height": "380",
+                                "width": "1920",
+                                "field_component_title": null,
+                                "field_component_type": null,
+                                "field_description": "gfgdfgf",
+                                "field_explore_link": [
+                                    {
+                                        "uri": "#",
+                                        "title": "View More",
+                                        "field_link_type": "cta"
+                                    }
+                                ],
+                                "field_subtitle": "fdgdffg",
+                                "field_title": "drggf"
+                            }
+                        ]
+                    },
+                    {
+                        "field_date": "12-May-2020",
+                        "field_more_articles": [
+                            {
+                                "url": "/img/news/home-credit.jpg",
+                                "title": "",
+                                "alt": "fsfdfdf",
+                                "height": "380",
+                                "width": "1920",
+                                "field_component_title": null,
+                                "field_component_type": null,
+                                "field_description": "fdsfds",
+                                "field_explore_link": [
+                                    {
+                                        "uri": "#",
+                                        "title": "fdfdsf",
+                                        "field_link_type": "cta"
+                                    }
+                                ],
+                                "field_subtitle": "fsfds",
+                                "field_title": "eff"
+                            }
+                        ]
+                    }
+                ],
+                "field_title": "More Articles"
+            }
+        ],
+        "field_date": "11-May-2020",
+        "field_terms": {
+            "content": {
+                "name": "News",
+                "description": null,
+                "field_key": "news",
+                "field_url": "/news"
+            },
+            "id": "23",
+            "type": "article_categories",
+            "changed": "Mon, 04/27/2020 - 11:46"
+        },
+        "field_unique_url": "/news"
+    },
+    "id": "157",
+    "type": "news_aticles",
+    "changed": "Tue, 05/12/2020 - 10:20"
+}
