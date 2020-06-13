@@ -38,7 +38,7 @@ const Footer = (props) => {
                 </div>
                 </div>
                 <div className="copyright_wrap">
-                <p className="copyright">JAY DESAI DEPLYMENT Kubernetes -winner ----- Copyright@TLG India Pvt. Ltd. Division Indigo Consulting</p>
+                <p className="copyright">JAY DESAI DEPLYMENT Kubernetes - harsh desai----- Copyright@TLG India Pvt. Ltd. Division Indigo Consulting  - harsh desai</p>
                 </div>
             </div>
         </footer>
