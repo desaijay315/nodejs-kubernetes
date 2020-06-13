@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: ansible
   become: true
   tasks:
    
