@@ -38,7 +38,7 @@ const Footer = (props) => {
                 </div>
                 </div>
                 <div className="copyright_wrap">
-                <p className="copyright">Copyright@TLG India Pvt. Ltd. Division Indigo Consulting</p>
+                <p className="copyright">OKAY----Copyright@TLG India Pvt. Ltd. Division Indigo Consulting</p>
                 </div>
             </div>
         </footer>
