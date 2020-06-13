@@ -1,0 +1,6 @@
+#Jenkins pipeline to create and push the images to AMAZON ECR
+# Jenkins pipeline to deploy tok8
+ansible-playbook -i /opt/docker/docker-nodejs/hosts /opt/docker/docker-nodejs/create-push-image.yml;
+ansible-playbook -i /opt/docker-nodejs/hosts /opt/docker-nodejs/kubernetes-nodejs-deployment.yml;
+ansible-playbook -i /opt/docker-nodejs/hosts /opt/docker-nodejs/kubernetes-nodejs-service.yml;
+ansible-playbook -i /opt/docker-nodejs/hosts /opt/docker-nodejs/kubernetes-nginx-service.yml;
